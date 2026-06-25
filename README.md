@@ -17,22 +17,6 @@ A weather application built with HTML, CSS and JavaScript that allows users to s
 - JavaScript
 - Weather API
 
-## Project Status
-
-🚧 Currently in Development
-
-### Completed
-
-- HTML structure
-- Responsive CSS styling
-- User interface design
-
-### In Progress
-
-- JavaScript functionality
-- API integration
-- Dynamic weather data display
-
 ## Future Improvements
 
 - 5-day weather forecast
