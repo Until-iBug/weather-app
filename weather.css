@@ -85,7 +85,30 @@ button{
 @media (max-width:768px)
 {
 h1{
-    font-size: 4rem;
+    font-size: 2rem;
+}
+#search-box{
+    width:100%;
+    height: auto;
+    font-size: 1rem;
+    display: flex;
+    justify-content: center;
+}
+#search-box input{
+    height:5vh;
+    font-size: 1rem;
+}
+button{
+    height:5vh;
+    font-size: 2rem;
+    padding: 0%;
+}
+i{
+    margin: 10px;
+}
+.temp{
+    font-size: 3rem;
+    padding-top: 10px;
 }
 svg{
     height:auto;
